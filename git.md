@@ -23,3 +23,7 @@ If you require full output and you are on a network that can reach the remote re
 git remote show origin
 ````
 https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr
+# How to change the URI (URL) for a remote Git repository?
+````
+git remote set-url origin new.git.url/here
+````
