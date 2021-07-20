@@ -4,6 +4,7 @@
 * [Phoenix_Framework](phoenix_framework.md)
 * [Postgres](postgres.md)
 * [ASDF](asdf.md)
+* [Elixir References](elixir_references.md)
 
 ## Concept
 from Jesper L. Andersen [On Logbooks](https://medium.com/@jlouis666/on-logbooks-e2380ab2f8f0#.2rox21s7w):
