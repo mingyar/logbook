@@ -27,3 +27,7 @@ https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-l
 ````
 git remote set-url origin new.git.url/here
 ````
+# How to undo the last commit?
+````
+git reset --soft HEAD~1
+````
