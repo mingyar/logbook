@@ -14,6 +14,8 @@ https://gist.github.com/jdesilvio/7972ff3274e85b37dd933aca6d3bab22
 
 https://zorbash.com/post/building-command-line-applications-with-elixir/
 
+https://stackoverflow.com/questions/47783996/format-date-with-elixir
+
 ### Mongodb
 
 In case you are trying to run a task, you have to ensure that there is an application running:
