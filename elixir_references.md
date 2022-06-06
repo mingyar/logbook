@@ -16,6 +16,8 @@ https://zorbash.com/post/building-command-line-applications-with-elixir/
 
 https://stackoverflow.com/questions/47783996/format-date-with-elixir
 
+https://stackoverflow.com/questions/56941063/elixir-how-to-cast-from-string-to-ecto-date
+
 ### Mongodb
 
 In case you are trying to run a task, you have to ensure that there is an application running:
